@@ -1,4 +1,4 @@
-## Digital Bank System
+# Digital Bank System
 CIMB is a digital bank that offers GSave and UpSave savings accounts. As with a typical Savings Account, it contains the account number, account name, and a balance for that account.
 
 The typical savings account offers an interest rate of 1%.
@@ -26,6 +26,6 @@ Benefits include the "Standard Savings Account" plus "with Insurance".
 
 
 
-### UML Diagram
+## UML Diagram
 ![Decorator Pattern (1)](https://github.com/ClarkBelen/decoratorPattern/assets/142368338/2b44ce1d-99fb-4a79-9e8e-291f1ccb93e2)
 
