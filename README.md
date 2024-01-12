@@ -1,4 +1,4 @@
-## Decorator Pattern
+## Digital Bank System
 CIMB is a digital bank that offers GSave and UpSave savings accounts. As with a typical Savings Account, it contains the account number, account name, and a balance for that account.
 
 The typical savings account offers an interest rate of 1%.
